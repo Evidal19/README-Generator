@@ -1,8 +1,8 @@
-# Read-Me Generater
+# read me generator
 
 
 ## Description
-This is a project to generate a ReadMe
+this is a project to make a readme
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ This is a project to generate a ReadMe
 npm install
 
 ## Usage
-Make a ReadMe
+make a readme
 
 ## Questions
 For further questions, contact me at my email: evida001@ucr.edu
-Github profile: https://github.com/Evidal19
+Github profile: https://github.com/evidal19
 
 ## License
 ![license badge](https://img.shields.io/badge/license-MIT-green)
